@@ -1,0 +1,10 @@
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe.config
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\CalculadoraSimples\bin\Debug\CalculadoraSimples.pdb
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.csprojResolveAssemblyReference.cache
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.frmCalculadora.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.Properties.Resources.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.GenerateResource.Cache
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.exe
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.pdb
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\CalculadoraSimples\obj\Debug\CalculadoraSimples.FrmEstados.resources

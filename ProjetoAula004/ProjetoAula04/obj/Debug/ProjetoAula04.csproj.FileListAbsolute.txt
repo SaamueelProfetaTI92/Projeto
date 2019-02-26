@@ -1,0 +1,9 @@
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\ProjetoAula004\ProjetoAula04\bin\Debug\ProjetoAula04.exe.config
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\ProjetoAula004\ProjetoAula04\bin\Debug\ProjetoAula04.exe
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\ProjetoAula004\ProjetoAula04\bin\Debug\ProjetoAula04.pdb
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\ProjetoAula004\ProjetoAula04\obj\Debug\ProjetoAula04.csprojResolveAssemblyReference.cache
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\ProjetoAula004\ProjetoAula04\obj\Debug\ProjetoAula04.Form1.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\ProjetoAula004\ProjetoAula04\obj\Debug\ProjetoAula04.Properties.Resources.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\ProjetoAula004\ProjetoAula04\obj\Debug\ProjetoAula04.csproj.GenerateResource.Cache
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\ProjetoAula004\ProjetoAula04\obj\Debug\ProjetoAula04.exe
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\ProjetoAula004\ProjetoAula04\obj\Debug\ProjetoAula04.pdb

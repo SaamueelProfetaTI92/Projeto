@@ -1,0 +1,9 @@
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\bin\Debug\Farmacia.exe.config
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\bin\Debug\Farmacia.exe
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\bin\Debug\Farmacia.pdb
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.frmLogin.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.exe
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\obj\Debug\Farmacia.pdb

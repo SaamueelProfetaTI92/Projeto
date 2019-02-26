@@ -1,0 +1,11 @@
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\Projeto Samuel\Atividade 25022019\bin\Debug\Atividade 25022019.exe.config
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\Projeto Samuel\Atividade 25022019\obj\Debug\Atividade 25022019.csprojResolveAssemblyReference.cache
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\Projeto Samuel\Atividade 25022019\obj\Debug\Atividade_25022019.frmLogin.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\Projeto Samuel\Atividade 25022019\obj\Debug\Atividade_25022019.Properties.Resources.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\Projeto Samuel\Atividade 25022019\obj\Debug\Atividade 25022019.csproj.GenerateResource.Cache
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\Projeto Samuel\Atividade 25022019\bin\Debug\Atividade 25022019.exe
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\Projeto Samuel\Atividade 25022019\bin\Debug\Atividade 25022019.pdb
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\Projeto Samuel\Atividade 25022019\obj\Debug\Atividade 25022019.exe
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\Projeto Samuel\Atividade 25022019\obj\Debug\Atividade 25022019.pdb
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\Projeto Samuel\Atividade 25022019\obj\Debug\Atividade_25022019.frmMenuPrincipal.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\Projeto Samuel\Atividade 25022019\obj\Debug\Atividade_25022019.frmGerenciarFunc.resources

@@ -1,0 +1,11 @@
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\bin\x64\Debug\Farmacia.exe.config
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\bin\x64\Debug\Farmacia.exe
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\bin\x64\Debug\Farmacia.pdb
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.frmLogin.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.Properties.Resources.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.exe
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.pdb
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.frmDadosPessoais.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\Farmacia\obj\x64\Debug\Farmacia.frmTesteVariavel.resources

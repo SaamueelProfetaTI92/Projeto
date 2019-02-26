@@ -1,0 +1,9 @@
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\FolhaPagamento\bin\Debug\FolhaPagamento.exe.config
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\FolhaPagamento\bin\Debug\FolhaPagamento.exe
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\FolhaPagamento\bin\Debug\FolhaPagamento.pdb
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\FolhaPagamento\obj\Debug\FolhaPagamento.csprojResolveAssemblyReference.cache
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\FolhaPagamento\obj\Debug\FolhaPagamento.frmFolhaPagamento.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\FolhaPagamento\obj\Debug\FolhaPagamento.Properties.Resources.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\FolhaPagamento\obj\Debug\FolhaPagamento.csproj.GenerateResource.Cache
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\FolhaPagamento\obj\Debug\FolhaPagamento.exe
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\FolhaPagamento\obj\Debug\FolhaPagamento.pdb

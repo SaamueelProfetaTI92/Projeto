@@ -1,0 +1,27 @@
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.exe.config
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.exe
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.pdb
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.csprojResolveAssemblyReference.cache
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.Properties.Resources.resources
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.GenerateResource.Cache
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.exe
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.pdb
+C:\Users\laercio.nsilva\Documents\ProjetoCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.frmEscolha.resources
+T:\Cursos Tecnicos\TI92\UC9 até UC16\UC10\Sistemas\Material de Apoio\ProjetoTeste\bin\Debug\ProjetoTeste.exe.config
+T:\Cursos Tecnicos\TI92\UC9 até UC16\UC10\Sistemas\Material de Apoio\ProjetoTeste\obj\Debug\ProjetoTeste.exe
+T:\Cursos Tecnicos\TI92\UC9 até UC16\UC10\Sistemas\Material de Apoio\ProjetoTeste\obj\Debug\ProjetoTeste.pdb
+T:\Cursos Tecnicos\TI92\UC9 até UC16\UC10\Sistemas\Material de Apoio\ProjetoTeste\bin\Debug\ProjetoTeste.exe
+T:\Cursos Tecnicos\TI92\UC9 até UC16\UC10\Sistemas\Material de Apoio\ProjetoTeste\bin\Debug\ProjetoTeste.pdb
+T:\Cursos Tecnicos\TI92\UC9 até UC16\UC10\Sistemas\Material de Apoio\ProjetoTeste\obj\Debug\ProjetoTeste.csprojResolveAssemblyReference.cache
+T:\Cursos Tecnicos\TI92\UC9 até UC16\UC10\Sistemas\Material de Apoio\ProjetoTeste\obj\Debug\ProjetoTeste.frmEscolha.resources
+T:\Cursos Tecnicos\TI92\UC9 até UC16\UC10\Sistemas\Material de Apoio\ProjetoTeste\obj\Debug\ProjetoTeste.Properties.Resources.resources
+T:\Cursos Tecnicos\TI92\UC9 até UC16\UC10\Sistemas\Material de Apoio\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.GenerateResource.Cache
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.exe.config
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.exe
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.pdb
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.exe
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\ProjetoTeste\bin\Debug\ProjetoTeste.pdb
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.csprojResolveAssemblyReference.cache
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.frmEscolha.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.Properties.Resources.resources
+C:\Users\samuel.pssantos\Documents\ProjetosCSharp\EmpresaABC\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.GenerateResource.Cache
